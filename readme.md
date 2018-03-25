@@ -15,8 +15,9 @@ const PurgeSvgPlugin = require('purgesvg-webpack-plugin');
 module.exports = {
     plugins: [
         new PurgeSvgPlugin({
-            // available options at [purge-svg](https://github.com/Media24si/purge-svg)
+            // options
         }),
     ],
 };
 ```
+Available options at [Media24si/purge-svg](https://github.com/Media24si/purge-svg)
