@@ -1,6 +1,6 @@
 {
   "name": "purgesvg-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack plugin for purgesvg",
   "homepage": "https://github.com/Media24si/purgesvg-webpack-plugin",
   "main": "index.js",
