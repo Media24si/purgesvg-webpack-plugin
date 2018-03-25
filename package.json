@@ -1,0 +1,29 @@
+{
+  "name": "purgesvg-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin for purgesvg",
+  "homepage": "https://github.com/Media24si/purgesvg-webpack-plugin",
+  "main": "index.js",
+  "license": "MIT",
+  "contributors": [
+    "Jernej Pogačar"
+  ],
+  "bugs": {
+    "url": "https://github.com/Media24si/purgesvg-webpack-plugin/issues"
+  },
+  "keywords": [
+    "optimization",
+    "remove",
+    "unused",
+    "svg",
+    "purge",
+    "webpack"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Media24si/purgesvg-webpack-plugin.git"
+  },
+  "dependencies": {
+    "purgesvg": "^1.0.0"
+  }
+}
