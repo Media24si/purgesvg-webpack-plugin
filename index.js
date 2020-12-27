@@ -6,7 +6,7 @@ class PurgeSvgPlugin {
     }
 
     apply (compiler) {
-        compiler.plugin('done', () => {
+        compiler.hooks.done.tap('Purgesvg webpack plugin', () => {
             new PurgeSvg(this.options).purge()
         })
     }

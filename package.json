@@ -24,6 +24,6 @@
     "url": "https://github.com/Media24si/purgesvg-webpack-plugin.git"
   },
   "dependencies": {
-    "purgesvg": "^1.0"
+    "purgesvg": "^1.1"
   }
 }
